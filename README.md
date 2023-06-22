@@ -50,9 +50,10 @@ npm run make-mac-aarch
 * On Windows, the app is installed to ``%LocalAppData%\xbarcade\`` and a shortcut is added to desktop
 * Uninstalled via usual Windows app uninstall process (Settings > Apps)
 
-TODO:
+Coming Soon:
 connections to home xbox
-add JS Emulators for Retro Gaming
+
+Java Streaming Emulators for Retro Gaming
 
 Nintendo
 Game Boy Advance   |  Famicom / NES   |  Virtual Boy Game Boy   |  SNES   |  DS   |  64
