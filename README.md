@@ -50,4 +50,27 @@ npm run make-mac-aarch
 * On Windows, the app is installed to ``%LocalAppData%\xbarcade\`` and a shortcut is added to desktop
 * Uninstalled via usual Windows app uninstall process (Settings > Apps)
 
+TODO:
+connections to home xbox
+add JS Emulators for Retro Gaming
+
+Nintendo
+Game Boy Advance   |  Famicom / NES   |  Virtual Boy Game Boy   |  SNES   |  DS   |  64
+
+Sega
+Master System   |  Mega Drive   |  Game Gear
+
+Saturn   |  32X   |  CD
+
+Atari
+2600   |  5200   |  7800   |  Lynx   |  Jaguar
+
+Other
+TurboGrafs 16 PC Engine   |  WanderSwan Color   |  Neo Geo Poket
+
+PlayStation
+One | Two | Three | Four
+
+Arcade   |  MSX   |  3DO   |  MAME 2003
+
 
