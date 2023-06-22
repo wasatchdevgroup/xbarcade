@@ -1,8 +1,8 @@
 {
-  "name": "xbox-cloud-gaming-wrapper",
+  "name": "xbarcade-cloud-gaming",
   "productName": "xbox-cloud-gaming-wrapper",
   "version": "0.1.0",
-  "description": "Xbox Cloud Gaming wrapper",
+  "description": "XBArcade Cloud Gaming wrapper",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -14,26 +14,26 @@
     "lint": "echo \"No linting configured\""
   },
   "build": {
-    "appId": "xbox-cloud-gaming-wrapper",
+    "appId": "xbarcade-cloud-gaming",
     "icon": "src/icon.png"
   },
   "keywords": [],
   "author": {
-    "name": "PJ Palomaki",
-    "email": "2419138+pjburnhill@users.noreply.github.com"
+    "name": "Randy Whetton",
+    "email": "growlerwhetton@gmail.com"
   },
   "license": "MIT",
   "config": {
     "forge": {
       "packagerConfig": {
         "icon": "assets/icon",
-        "name": "Xbox Cloud Gaming"
+        "name": "XBArcade Cloud Gaming"
       },
       "makers": [
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "xbox_cloud_gaming_wrapper",
+            "name": "xbarcade-cloud-gaming",
             "icon": "assets/icon"
           }
         },
