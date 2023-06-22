@@ -1,6 +1,6 @@
-# Xbox Cloud Gaming wrapper
+# XBArcade Cloud Gaming 
 
-Simple native Electron wrapper for Xbox Cloud Gaming ([xbox.com/play](https://xbox.com/play))
+Simple native Electron wrapper for Xbarcade Cloud Gaming ([xbox.com/play](https://xbox.com/play))
 
 ## Features
 
@@ -47,14 +47,7 @@ npm run make-mac-aarch
 ## Install
 
 * After ``make`` run the installer in ``./out`` folder
-* On Windows, the app is installed to ``%LocalAppData%\xbox_cloud_gaming_wrapper\`` and a shortcut is added to desktop
+* On Windows, the app is installed to ``%LocalAppData%\xbarcade\`` and a shortcut is added to desktop
 * Uninstalled via usual Windows app uninstall process (Settings > Apps)
 
-## Todo
 
-* Not tested on Linux
-* Find ways to optimize Chromium / Electron packaging for game streaming (flags etc)
-* Some UI fixes (logos, app name, etc)
-* Auto updater
-* App signing
-* Releases
