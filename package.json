@@ -1,6 +1,6 @@
 {
   "name": "xbarcade-cloud-gaming",
-  "productName": "xbox-cloud-gaming-wrapper",
+  "productName": "xbarcade-cloud-gamingwrapper",
   "version": "0.1.0",
   "description": "XBArcade Cloud Gaming wrapper",
   "main": "src/main.js",
